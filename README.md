@@ -1,8 +1,8 @@
 # Have You Tried Turning It Off?
 
-![competition](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b.svg)
-![rank](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b/kongkong070/u-motasimfuad-have-you-tried-turning-it-off-154a938b/rank.svg)
-![reward](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b/kongkong070/u-motasimfuad-have-you-tried-turning-it-off-154a938b/reward.svg)
+[![make.fun](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b.svg)
+[![rank](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b/kongkong070/u-motasimfuad-have-you-tried-turning-it-off-154a938b/rank.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b)
+[![reward](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b/kongkong070/u-motasimfuad-have-you-tried-turning-it-off-154a938b/reward.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b)
 
 One funny single-line reply from a hopeless tech support agent to a desperate customer, written by `main.ts` into `/output/entry.txt`:
 
